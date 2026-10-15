@@ -1,0 +1,20 @@
+{
+  "name": "bbwdadfg/aiautocropper-url-tools",
+  "description": "Offline URL builder for AI Auto Cropper scan-splitting workflows. Not an official SDK.",
+  "type": "library",
+  "license": [
+    "MIT"
+  ],
+  "homepage": "https://aiautocropper.com/",
+  "support": {
+    "source": "https://github.com/bbwdadfg/aiautocropper-url-tools"
+  },
+  "autoload": {
+    "psr-4": {
+      "AiautocropperUrlTools\\": "php/src/AiautocropperUrlTools/"
+    }
+  },
+  "require": {
+    "php": ">=8.1"
+  }
+}

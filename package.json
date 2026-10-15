@@ -1,0 +1,23 @@
+{
+  "name": "aiautocropper-url-tools",
+  "version": "0.1.0",
+  "description": "Offline URL builder for AI Auto Cropper scan-splitting workflows. Not an official SDK.",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://aiautocropper.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbwdadfg/aiautocropper-url-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bbwdadfg/aiautocropper-url-tools/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test test.js"
+  }
+}

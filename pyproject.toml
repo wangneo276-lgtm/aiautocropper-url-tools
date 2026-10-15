@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aiautocropper-url-tools"
+version = "0.1.0"
+description = "Offline URL builder for AI Auto Cropper scan-splitting workflows. Not an official SDK."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [{ name = "bbwdadfg" }]
+
+[project.urls]
+Homepage = "https://aiautocropper.com/"
+Repository = "https://github.com/bbwdadfg/aiautocropper-url-tools"
+Issues = "https://github.com/bbwdadfg/aiautocropper-url-tools/issues"
+
+[tool.setuptools.packages.find]
+where = ["python"]
+include = ["aiautocropper_url_tools*"]
