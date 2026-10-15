@@ -1,3 +1,3 @@
-module github.com/bbwdadfg/aiautocropper-url-tools
+module github.com/wangneo276-lgtm/aiautocropper-url-tools
 
 go 1.22

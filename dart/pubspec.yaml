@@ -1,0 +1,7 @@
+name: aiautocropper_url_tools
+description: Offline URL builder for AI Auto Cropper scan-splitting workflows. Not an official SDK.
+version: 0.1.1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+homepage: https://aiautocropper.com/
+repository: https://github.com/wangneo276-lgtm/aiautocropper-url-tools

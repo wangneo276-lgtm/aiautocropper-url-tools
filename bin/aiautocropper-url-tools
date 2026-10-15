@@ -1,0 +1,2 @@
+#!/bin/sh
+printf '%s %s\n' 'AI Auto Cropper' 'https://aiautocropper.com/'
